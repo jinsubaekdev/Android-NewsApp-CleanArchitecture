@@ -9,8 +9,6 @@ It has following features:
 
 ## Used skill / concept
 
----
-
 - MVVM
 - Clean Architecture
 - Data Binding
